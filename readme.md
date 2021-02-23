@@ -17,3 +17,6 @@ dotnetversions -b
 ```
 
 You can get some quick help by using the `/?`, `-?`, `--?`, `/help`, `-help`, or `--help` switch.
+
+
+Update to add Core versions.
